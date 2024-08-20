@@ -128,5 +128,9 @@ BOARD_USES_METADATA_PARTITION := true
 # Platform
 TARGET_BOARD_PLATFORM := mt6897
 
+# SPL
+BOOT_SECURITY_PATCH := 2026-02-01
+VENDOR_SECURITY_PATCH := 2026-02-01
+
 # Inherit the proprietary files
 include vendor/oneplus/honda/BoardConfigVendor.mk
