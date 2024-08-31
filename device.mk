@@ -75,6 +75,7 @@ PRODUCT_PACKAGES += \
     init.connectivity.common.rc \
     init.modem.rc \
     init.mt6897.rc \
+    init.recovery.mt6897.rc \
     init.mt6897.usb.rc \
     init.mtkgki.rc \
     init.project.rc \
