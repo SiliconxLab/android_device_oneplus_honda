@@ -1,0 +1,1 @@
+require board=k6897v1_64
